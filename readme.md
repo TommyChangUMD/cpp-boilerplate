@@ -1,7 +1,8 @@
-# C++ Boilerplate
-[![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
----
+# C++ Boilerplate Badges
+[![Build Status](https://github.com/TommyChangUMD/cpp-boilerplate/actions/workflows/main.yml/badge.svg)](https://github.com/TommyChangUMD/cpp-boilerplate/actions/workflows/main.yml)
+
+[![Coverage Status](https://coveralls.io/repos/github/TommyChangUMD/cpp-boilerplate/badge.png?branch=main)](https://coveralls.io/github/TommyChangUMD/cpp-boilerplate?branch=main)
+
 
 ## Overview
 
