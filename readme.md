@@ -1,7 +1,7 @@
 # C++ Boilerplate Badges
-[![Build Status](https://github.com/TommyChangUMD/cpp-boilerplate/actions/workflows/main.yml/badge.svg)](https://github.com/TommyChangUMD/cpp-boilerplate/actions/workflows/main.yml)
+[![Build Status](https://github.com/TommyChangUMD/cpp-boilerplate/actions/workflows/build_and_coveralls.yml/badge.svg)](https://github.com/TommyChangUMD/cpp-boilerplate/actions/workflows/build_and_coveralls.yml)
 
-[![Coverage Status](https://coveralls.io/repos/github/TommyChangUMD/cpp-boilerplate/badge.png?branch=main)](https://coveralls.io/github/TommyChangUMD/cpp-boilerplate?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/TommyChangUMD/cpp-boilerplate/badge.png?branch=master)](https://coveralls.io/github/TommyChangUMD/cpp-boilerplate?branch=master)
 
 
 ## Overview
