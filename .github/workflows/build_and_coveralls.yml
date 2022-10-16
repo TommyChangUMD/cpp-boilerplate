@@ -15,10 +15,10 @@ on:
   push:
     branches: [ "master" ]
 
-  # Triggered whenever the master branch opens and closes a pull request
+  # Triggered whenever a pull request is created on master
   pull_request:
     branches: [ "master" ]
-    types: [opened, closed]
+    types: [opened]
 
   # Allow manual trigger
   workflow_dispatch:
