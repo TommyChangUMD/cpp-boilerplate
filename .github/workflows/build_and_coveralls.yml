@@ -13,8 +13,7 @@ name: Build
 on:
   # Triggered whenever push to the master branch
   push:
-    # branches: [ "master" ]
-    branches: [ "devel_itr1" ]
+    branches: [ "master" ]
 
   # Triggered whenever the master branch opens and closes a pull request
   pull_request:
