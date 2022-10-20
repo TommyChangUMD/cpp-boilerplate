@@ -1,10 +1,11 @@
 #include <gtest/gtest.h>
 #include "lib.hpp"
+#include "src1.hpp"
 
 void function_not_used()
 {
   dummy();
-  int notUsed = 0;
+  int notUsed = function1(3);
 }
 
 int main(int argc, char** argv) {
