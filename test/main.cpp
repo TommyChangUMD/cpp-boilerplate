@@ -1,7 +1,9 @@
 #include <gtest/gtest.h>
+#include "lib.hpp"
 
 void function_not_used()
 {
+  dummy();
   int notUsed = 0;
 }
 
